@@ -185,6 +185,10 @@ p {
         height: 14rem;
     }
 
+    li {
+        display: inline-flex;
+    }
+
 
 }
 
